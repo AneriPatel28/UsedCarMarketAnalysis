@@ -1,7 +1,3 @@
-Great! I'll include the source of the dataset in the acknowledgments section of your README file. Here's the updated version with the link to the dataset on Kaggle:
-
----
-
 # Used Car Market Analysis
 
 ## Project Overview
