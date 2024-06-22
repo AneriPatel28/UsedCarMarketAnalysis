@@ -16,7 +16,7 @@ To regenerate the results and view the static plots, follow these steps:
 
 To launch the dashboard:
 
-1. Navigate to the project folder where the `Project_PhaseII_pt2.py` file is located.
+1. Navigate to the folder where the `Project_PhaseII_pt2.py` file is located.
 2. Ensure the 'assets' directory is present in the same folder as `Project_PhaseII_pt2.py`
 to load all the images and styles for the dashboard correctly.
 3. Run the script using a Python interpreter:
