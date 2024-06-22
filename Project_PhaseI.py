@@ -1,6 +1,3 @@
-# Name: Aneri Patel
-# GWID: G40408020
-
 #Project Phase 01:
 
 #%%
